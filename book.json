@@ -1,0 +1,14 @@
+{
+  "name": "Fun tasks 5",
+  "id": "funtasks5",
+  "children": [
+    {
+      "id": "c01",
+      "name": "Not yet written...",
+      "guide": "./c01.md",
+      "py": "./c01.py",
+      "tests": [],
+      "additionalFiles": []
+    }
+  ]
+}
