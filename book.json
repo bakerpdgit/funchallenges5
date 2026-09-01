@@ -4,7 +4,7 @@
   "children": [
     {
       "id": "c01",
-      "name": "Not yet written...",
+      "name": "The Python Cheer-O-Matic",
       "guide": "./c01.md",
       "py": "./c01.py",
       "tests": [],
