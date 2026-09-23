@@ -9,6 +9,22 @@
       "py": "./c01.py",
       "tests": [],
       "additionalFiles": []
+    },
+    {
+      "id": "c02",
+      "name": "The Animal Guess-O-Matic",
+      "guide": "./c02.md",
+      "py": "./c02.py",
+      "tests": [],
+      "additionalFiles": []
+    },
+    {
+      "id": "c03",
+      "name": "Quiz game",
+      "guide": "./c03.md",
+      "py": "./c03.py",
+      "tests": [],
+      "additionalFiles": []
     }
   ]
 }
