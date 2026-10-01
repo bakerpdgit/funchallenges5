@@ -4,7 +4,7 @@
   "children": [
     {
       "id": "c01",
-      "name": "The Python Cheer-O-Matic",
+      "name": "Cheer-O-Matic",
       "guide": "./c01.md",
       "py": "./c01.py",
       "tests": [],
@@ -12,7 +12,7 @@
     },
     {
       "id": "c02",
-      "name": "The Animal Guess-O-Matic",
+      "name": "Animal",
       "guide": "./c02.md",
       "py": "./c02.py",
       "tests": [],
