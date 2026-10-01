@@ -25,6 +25,14 @@
       "py": "./c03.py",
       "tests": [],
       "additionalFiles": []
-    }
+    },
+        {
+      "id": "c04",
+      "name": "String manipulation",
+      "guide": "./c04.md",
+      "py": "./c04.py",
+      "tests": [],
+      "additionalFiles": []
+    },
   ]
 }

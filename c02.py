@@ -1,4 +1,4 @@
-# The Animal Guess-O-Matic
+# Animal
 # Starter code for Tasks 1–4
 # Run this working game first, then follow the challenges in c02.md.
 
