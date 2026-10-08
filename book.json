@@ -33,6 +33,14 @@
       "py": "./c04.py",
       "tests": [],
       "additionalFiles": []
+    },
+        {
+      "id": "c05",
+      "name": "Hangman",
+      "guide": "./c05.md",
+      "py": "./c05.py",
+      "tests": [],
+      "additionalFiles": []
     }
   ]
 }
