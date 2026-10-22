@@ -49,6 +49,14 @@
       "py": "./c06.py",
       "tests": [],
       "additionalFiles": []
+    },
+    {
+      "id": "c07",
+      "name": "Battle Game",
+      "guide": "./c07.md",
+      "py": "./c07.py",
+      "tests": [],
+      "additionalFiles": []
     }
   ]
 }
