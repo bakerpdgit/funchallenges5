@@ -57,6 +57,14 @@
       "py": "./c07.py",
       "tests": [],
       "additionalFiles": []
+    },
+    {
+      "id": "c08",
+      "name": "Noughts and Crosses",
+      "guide": "./c08.md",
+      "py": "./c08.py",
+      "tests": [],
+      "additionalFiles": []
     }
   ]
 }
