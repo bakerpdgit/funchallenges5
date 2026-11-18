@@ -97,6 +97,3 @@ while True:
             displayBoard(board)
             print("Out of shots. Game over!")
             break
-
-
-# Extensions are in c08.md
