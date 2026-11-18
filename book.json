@@ -65,6 +65,15 @@
       "py": "./c08.py",
       "tests": [],
       "additionalFiles": []
+    },
+        {
+      "id": "c09",
+      "name": "Battleships",
+      "guide": "./c09.md",
+      "py": "./c09.py",
+      "tests": [],
+      "additionalFiles": []
     }
+
   ]
 }
