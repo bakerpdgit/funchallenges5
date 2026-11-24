@@ -73,6 +73,14 @@
       "py": "./c09.py",
       "tests": [],
       "additionalFiles": []
+    },
+    {
+      "id": "c10",
+      "name": "Pygame Snake",
+      "guide": "./c10.md",
+      "py": "./c10.py",
+      "tests": [],
+      "additionalFiles": []
     }
 
   ]
